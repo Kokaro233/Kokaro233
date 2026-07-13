@@ -8,14 +8,17 @@
 
 I'm **Caro**, also called **koi** — a Year 2 FinTech student based in Kuala Lumpur.
 
-I explore **AI agents, Web3, FinTech, quant, payments, data analysis, and risk management**. I also enjoy building small creative projects and interactive stories.
+I explore **AI agents, Web3, FinTech, Quant, payments, data analysis, and risk management**. I also enjoy building small creative projects and interactive stories.
 
 <p><sub><strong>Clori</strong> is my public creative identity — the name I use for projects and things I build.<br>
 <strong>Kokao</strong> is my personal device ecosystem — the name I use for my computers, local environments, and digital workspace.</sub></p>
 
 ## Tech
 
-Python · C · MySQL · Solidity · TypeScript · JavaScript · React · Git · Ren'Py
+**Languages & databases:** Python · C · JavaScript · TypeScript · SQL · MySQL · Solidity  
+**Data & quant:** NumPy · pandas · Matplotlib · time-series analysis · signal design · backtesting  
+**Web & tools:** React · Git · Conda · PyYAML · pytest · ReportLab · pypdf  
+**Creative:** Ren'Py
 
 ## Featured projects
 
