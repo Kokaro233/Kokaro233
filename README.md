@@ -10,8 +10,7 @@ I'm **Caro**, also called **koi** — a Year 2 FinTech student based in Kuala Lu
 
 I explore **AI agents, Web3, FinTech, Quant, payments, data analysis, and risk management**. I also enjoy building small creative projects and interactive stories.
 
-<p><sub><strong>Clori</strong> is my public creative identity — the name I use for projects and things I build.<br>
-<strong>Kokaro</strong> is my personal device ecosystem — the name I use for my computers, local environments, and digital workspace.</sub></p>
+<p><sub><strong>Kokaro</strong> is my personal creative identity — the name I use to build my personal brand and name my projects and creations.</sub></p>
 
 ## Tech
 
@@ -22,10 +21,10 @@ I explore **AI agents, Web3, FinTech, Quant, payments, data analysis, and risk m
 
 ## Featured projects
 
-- 🧠 [LUCID](https://github.com/Clori001/lucid-cognitive-triage-agent) — A cognitive safety agent for scam-pressure triage.
-- 🌅 [Sunrisee](https://github.com/Clori001/sunrisee_renpy_word_game) — A short pixel-style Ren'Py visual novel about time, memory, choices, and farewell—with a touch of philosophy.
-- 📈 [QQQ Quant Trend + Momentum](https://github.com/Clori001/qqq-trend-momentum-quant-research) — A reproducible quant project covering signal design, strategy development, backtesting, and analysis.
-- ⛓️ [CopyrightChain](https://github.com/Clori001/copyrightchain-demo) — A Web3 demo for digital copyright registration and public review.
+- 🧠 [LUCID](https://github.com/Kokaro233/lucid-cognitive-triage-agent) — A cognitive safety agent for scam-pressure triage.
+- 🌅 [Sunrisee](https://github.com/Kokaro233/sunrisee_renpy_word_game) — A short pixel-style Ren'Py visual novel about time, memory, choices, and farewell—with a touch of philosophy.
+- 📈 [QQQ Quant Trend + Momentum](https://github.com/Kokaro233/qqq-trend-momentum-quant-research) — A reproducible quant project covering signal design, strategy development, backtesting, and analysis.
+- ⛓️ [CopyrightChain](https://github.com/Kokaro233/copyrightchain-demo) — A Web3 demo for digital copyright registration and public review.
 
 ## Connect
 
