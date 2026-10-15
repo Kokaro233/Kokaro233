@@ -23,7 +23,7 @@ I explore **AI agents, Web3, FinTech, Quant, payments, data analysis, and risk m
 
 ## Featured projects
 
-- 🌸 [BOT Omikuji]([https://github.com/Kokaro233/monad-omikuji](https://github.com/Kokaro233/botchain-omikuji)) — An animated pixel-art on-chain fortune-drawing DApp.
+- 🌸 [BOT Omikuji](https://github.com/Kokaro233/botchain-omikuji) — An animated pixel-art on-chain fortune-drawing DApp.
 - 🧠 [LUCID](https://github.com/Kokaro233/lucid-cognitive-triage-agent) — A cognitive safety agent for scam-pressure triage.
 - 🌅 [Sunrisee](https://github.com/Kokaro233/sunrisee_renpy_word_game) — A short pixel-style Ren'Py visual novel about time, memory, choices, and farewell—with a touch of philosophy.
 - 📈 [QQQ Quant Trend + Momentum](https://github.com/Kokaro233/qqq-trend-momentum-quant-research) — A reproducible quant project covering signal design, strategy development, backtesting, and analysis.
