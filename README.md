@@ -19,7 +19,7 @@ I explore **AI agents, Web3, FinTech, Quant, payments, data analysis, and risk m
 **Languages & databases:** Python · C · JavaScript · TypeScript · SQL · MySQL · Solidity  
 **Data & quant:** NumPy · pandas · Matplotlib · time-series analysis · signal design · backtesting  
 **Web & tools:** React · Git · Conda · PyYAML · pytest · ReportLab · pypdf  
-**Creative:** Ren'Py
+**Creative:** Ren'Py · Godot
 
 ## Featured projects
 
